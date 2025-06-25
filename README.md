@@ -91,8 +91,8 @@
   <section id="contacto" class="py-5">
     <div class="container text-center">
       <h2>¿Tienes preguntas?</h2>
-      <p>Sede principal: Calle Ficticia #123, Bogotá, Colombia</p>
-      <p>📞 +57 300 1234567  ✉️ contacto@interasesores.com</p>
+      <p>Sede principal: Calle 127 bis #88-07, Bogotá, Colombia</p>
+      <p>📞 +57 3005564973  ✉️ contacto@interasesores.com</p>
     </div>
   </section>
 
